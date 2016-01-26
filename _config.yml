@@ -1,6 +1,6 @@
 name: Koska Panda
 favicon: null
-layout_spectrum: 0.72609
+layout_spectrum: 0.93358
 typography_spectrum: 0.3039521479513496
 title: 'WWF:n nuorten wap-sivut'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#880010'
     - '#af440d'
   brandStrength: 0
-  lightness: 0.75
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
