@@ -1,0 +1,28 @@
+name: Koska Panda
+favicon: null
+layout_spectrum: 0.9505001513753086
+typography_spectrum: 0.3039521479513496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15733834519051015
+  lightness: 0.03750001941807568
+  saturation: 0.11408431851305068
+  rhythmicContrast: 0.4975744776893407
+purpose: []
