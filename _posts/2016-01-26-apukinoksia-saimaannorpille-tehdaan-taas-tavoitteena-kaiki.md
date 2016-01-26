@@ -6,27 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:53:56.368Z'
-dateModified: '2016-01-26T13:53:03.183Z'
+datePublished: '2016-01-26T14:11:44.838Z'
+dateModified: '2016-01-26T14:11:16.983Z'
 title: "\_Apukinoksia saimaannorpille tehdään taas: tavoitteena kaikille kuuteille syntymäpesä"
 author: []
+sourcePath: _posts/2016-01-26-apukinoksia-saimaannorpille-tehdaan-taas-tavoitteena-kaiki.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-apukinoksia-saimaannorpille-tehdaan-taas-tavoitteena-kaiki.md
-published: true
 url: apukinoksia-saimaannorpille-tehdaan-taas-tavoitteena-kaiki/index.html
 _type: Article
 
 ---
-Tämä jos mikä on konkreettista luonnonsuojelua!
-
-Saimaalla ei paikoin ole riittävästi lunta, jotta erittäin uhanalainen saimaannorppa voisi kaivaa pesäluolan rantakinoksiin. Ilman pesän turvaa poikaset ovat vaarassa joutua kylmän puremaksi tai pedon suihin. Niinpä Metsähallitus päätti, että kinoksia kolataan ihmisvoimin.
-
-Me vastaamme yhdessä vapaaehtoistemme kanssa kinosten tekemisestä eteläisellä Saimaalla. Kuvassa etualalla ahkeroi vapaaehtoisemme Venni Alanko. Sinä voit mahdollistaa työmme liittymällä kummiksi:[wwf.fi/norppakummiksi][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e498c603-b6da-45bd-a706-a4ae714e63fd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f19e8ff8-45fd-43de-8886-fea5494b2df8.jpg)
 
 # Apukinoksia saimaannorpille tehdään taas: tavoitteena kaikille kuuteille syntymäpesä
@@ -46,5 +42,3 @@ Metsähallituksen luontopalvelut koordinoi hanketta jonka toteuttamiseen sillä 
 **Apukinoksista jo suuri hyöty aiemmin**
 
 Toiminta on osa Saimaannorppa-LIFE-hanketta, jonka myötä apukinosten käyttö suojelutoimena aloitettiin huonona lumitalvena 2014\. Yli 140 vapaaehtoista ja noin 30 palkallista työntekijää urakoi yhteensä 240 apukinosta, ja norpat ottivat ne hyvin vastaan: kevään 2014 pesälaskennoissa arvioitiin, että kuuteista yli 90 % oli syntynyt apukinoksiin. Myös viime vuonna apukinoksia tarvittiin.
-
-[0]: http://l.facebook.com/l.php?u=http%3A%2F%2Fwwf.fi%2Fnorppakummiksi&h=kAQFtZLOrAQEDNIhVGF5GbTu1uyvpR5q8vCD9_JXn4M49iQ&enc=AZOqsnqi78S8wZJDpl6reJkuwFXTlSVT1GxGW-FraK3zh2LWvNmHVoAkSeLHuwKsbQ1CIhqykcYLyUqB8u5OdYe13hEUB3tVFtBe6WK9OP9WKHlaXmIY81kDh4dDRlB8CII0z2noPIQV8ilD2DM65dfVN8wIeTmxvofiGtvWBqDOjxgVTvBEXO62tg5SaGz3eKgu5_0davRyYgpPY_Cf1v68&s=1
